@@ -1,0 +1,31 @@
+Language flavor
+Most popular: ES5-based JavaScript
+Runner-up: ES6 (ECMAScript 2015)
+
+Front-end frameworks
+Most popular: React
+Runner-up: AngularJS 1.x
+
+Task runners
+Most popular: Gulp
+Runner-up: Grunt
+
+Module bundlers
+Most popular: Webpack
+Runner-up: Browserify
+
+Package managers
+Most popular: npm
+Runner-up: Yarn
+
+Editor
+Most popular: Sublime Text
+
+CSS preprocessors
+Most popular: Sass/SCSS
+
+Linting tools
+Most popular: ESLint
+
+Testing frameworks
+Most popular: Mocha

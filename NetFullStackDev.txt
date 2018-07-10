@@ -1,0 +1,9 @@
+.NET Full Stack Developer (ASP.NET; C#; MVC; LINQ; Entity Framework)
+
+Broad knowledge and experience managing a team using distributed technology including but not limited to:
+Exceptional knowledge of utilizing ASP.NET 4.5/4.7 with C#, MVC 4.0/5.2 (Razor Views), Visual Studio 2015/2017, LINQ and Entity Framework
+Experienced with TFS for Scrum teams
+Working knowledge of creating RESTful API’s
+Working knowledge of HTML/5, CSS/3, SASS and other frameworks
+Working knowledge of JavaScript (JSON, Angular, jQuery, etc..) and other frameworks
+Bootstrap
